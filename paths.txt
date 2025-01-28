@@ -1,0 +1,40 @@
+INCLUDE:
+
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\include
+    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um
+    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt
+    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared
+
+LIB:
+
+    C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\lib\x64
+    C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\ucrt\x64
+
+PATH:
+
+    C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\
+    C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\
+    C:\Windows\system32
+    C:\Windows
+    C:\Windows\System32\Wbem
+    C:\Windows\System32\WindowsPowerShell\v1.0\
+    C:\Windows\System32\OpenSSH\
+    C:\Program Files\Git\cmd
+    C:\Program Files\nodejs\
+    C:\Users\pc\AppData\Local\Programs\Python\Python313\Scripts\
+    C:\Users\pc\AppData\Local\Programs\Python\Python313\
+    C:\Users\pc\AppData\Local\Programs\Python\Launcher\
+    C:\Users\pc\AppData\Local\Microsoft\WindowsApps
+    C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\bin
+    C:\Users\pc\AppData\Roaming\npm
+    C:\Users\pc\vcpkg
+    C:\Users\pc\tools
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\bin\Hostx64\x64
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools
+    C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64
+    C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64
+    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.42.34433\lib\x64
+    c:\Users\pc\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand
