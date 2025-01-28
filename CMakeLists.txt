@@ -13,4 +13,7 @@ find_package(fmt CONFIG REQUIRED)
 add_executable(app main.cpp)
 target_link_libraries(app PRIVATE fmt::fmt)
 
+find_package(CURL REQUIRED)
+target_link_libraries(app PRIVATE CURL::libcurl)
+
 message(STATUS "Executable created at: ${EXE_OUTPUT_PATH}")
